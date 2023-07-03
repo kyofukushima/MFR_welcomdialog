@@ -38,7 +38,7 @@ css_text = """
 html_text = f"""
     <div style='{content_css}'>
     <div style='{container_css}'>
-        <img src="./app/static/dialog1.png" alt="">
+        <img src="https://raw.githubusercontent.com/kyofukushima/MFR_welcomdialog/master/static/dialog1.png" alt="">
         <p style='{dialog_css}'>{txt}</p>
         <p style='{close_css}'>閉じる</p>
         
